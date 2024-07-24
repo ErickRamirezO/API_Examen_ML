@@ -5,7 +5,11 @@
 
 ## Despliegue del modelo en un servidor local
 Para el despliegue del modelo, todos los archivos necesarios los encuentra en la carpeta `\despligue`.
-Contiene lo que es el app.py que es el script de python para levantar el servidor y cargar el modelo entrenado
+
+Contiene lo que es el app.py que es el script de python para levantar el servidor y cargar el modelo entrenado.
+> [!NOTE]
+> No se necesita modificar el archivo `àpp.py` ni los archivos `.pkl`
+
 > [!IMPORTANT]
 > Se debe tener previamente instalado Anaconda para crear el entorno virtual con la versión de python específica
 
