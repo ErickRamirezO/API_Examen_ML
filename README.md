@@ -18,3 +18,6 @@ conda install python=3.7
 pip install gunicorn==19.9.0 Flask numpy pandas scikit-learn streamlit==0.82.0 Jinja2 protobuf
 streamlit run app.py
 ```
+
+### Streamlit local
+![Texto alternativo](./assets/sistema.JPG)
